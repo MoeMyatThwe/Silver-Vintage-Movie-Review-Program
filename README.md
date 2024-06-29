@@ -18,8 +18,6 @@ Installation
 
 To run this program, you need to have Node.js installed. Additionally, you need to install the readline-sync package. You can do this by running the following command:
 
-bash
-
 npm install readline-sync
 
 How to Run
